@@ -1,0 +1,9 @@
+﻿<Application x:Class="wsdl_machete.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:wsdl_machete"
+             StartupUri="Views/wsdlView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
