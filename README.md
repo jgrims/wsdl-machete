@@ -1,3 +1,3 @@
-# This is a test of the readme markdown system.
+# WSDL Machete
 
-You can put stuff here that describes your project.
+WSDL Machete is a super-basic tool for dealing with large WSDL files.  
